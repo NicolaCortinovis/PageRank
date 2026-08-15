@@ -3,7 +3,7 @@ This repository contains the implementation of the PageRank algorithm on the wik
 
 For a quick overview of the project feel free to check the presentation :point_down:
 
-[![Presentation hook](presentation/pres_image.png)](./materials/PageRankPresentation.pdf)
+[![Presentation hook](materials/presentation_PR.png)](materials/PagerankPresentation.pdf)
 
 ### Requirements
 All requirements are listed in the `requirements.txt` file. Or if you prefer, you can create a conda environment using the provided `conda.yml` file.
